@@ -1,0 +1,157 @@
+	/* CSS Document */
+
+.middle-top ul{
+margin-top:0px;
+padding-left:10px;
+list-style:none;
+}
+.middle-top ul li{
+width:75px;
+height:25px;
+line-height:25px;
+margin:0px;
+padding:0px;
+border:#000000 thin hidden;
+text-align:center;
+font-size:14px;
+float:left;
+}
+.middle-top ul li a{
+color:#000000;
+text-decoration:none;
+}
+.middle-top ul li a::visited{
+color:#0000FF;
+}
+.middle-top ul li a:hover{
+color:#FF0000;
+}
+
+.middle-left1{
+width:250px;
+min-height:598px;
+margin:0px;
+padding:0px;
+border:#990066 thin hidden;
+}
+.middle-left1 ul{
+padding-left:0px;
+margin-top:0px;
+list-style:none;
+}
+.middle-left1 ul li{
+width:226px;
+height:40px;
+line-height:40px;
+margin:0px;
+padding-left:25px;
+border:#FF00FF thin hidden;
+font-size:14px;
+ font-weight:bolder;
+}
+.middle-left1 ul li a{
+color:#000000;
+text-decoration:none;
+}
+
+.middle-left1 ul li a::visited{
+color:#0000FF;
+}
+.middle-left1 ul li a:hover{
+color:#FF0000;
+}
+
+.middle-right1{
+width:740px;
+height:40px;
+margin:0px;
+padding:0px;
+background-image:url(../images/646.png) ;
+background-repeat:repeat-x;
+font-size:22px;
+font-weight:bolder;
+}
+.mr1{
+width:100px;
+height:30px;
+float:left;
+margin:0px;
+padding:5px;
+}
+#middle-right2{
+width:740px;
+min-height:450px;
+margin:0px;
+padding:0px;
+border: #0033FF thin hidden;
+}
+#middle-right2 ul{
+padding-left:0px;
+margin-top:0px;
+
+list-style:none;
+}
+#middle-right2 ul li{
+width:724px;
+height:40px;
+border-bottom:#CCCCCC thin dashed;
+font-size:14px;
+line-height:40px;
+padding-left:10px;
+
+}
+
+#middle-right2-li-right{
+width:164px;
+height:40px;
+padding:0px;
+margin:0px 0px 0px 0px;
+float:right;
+}
+
+#middle-right2 ul li a{
+text-decoration:none;
+}
+
+#middle-right2 ul li a::VISITED {
+	color:#0000FF;
+	
+}
+#middle-right2 ul li a:hover{
+	color:#FF0000;
+}
+#middle-right3{
+width:740px;
+height:20px;
+margin:1px 0px 0px 0px;
+text-align:center;
+padding:0px;
+border:#FF00FF thin hidden;
+}
+
+#middle-right3 ul{
+margin-top:0px;
+padding-left:200px;
+list-style:none;
+}
+#middle-right3 ul li{
+width:20px;
+height:20px;
+margin-left:3px;
+line-height:20px;
+font-size:12px;
+float:left;
+border:#000000 thin solid;
+}
+#middle-right3 ul li a{
+text-decoration:none;
+}
+
+#middle-right3 ul li a::VISITED {
+	color:#0000FF;
+	
+}
+#middle-right3 ul li a:hover{
+
+	color:#FF0000;
+}

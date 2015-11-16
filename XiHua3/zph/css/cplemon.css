@@ -1,0 +1,148 @@
+/* CSS Document */
+/*.middle-top ul{
+margin-top:0px;
+padding-left:10px;
+list-style:none;
+}
+.middle-top ul li{
+width:75px;
+height:25px;
+line-height:25px;
+margin:0px;
+padding:0px;
+border:#000000 thin hidden;
+text-align:center;
+font-size:14px;
+float:left;
+}
+.middle-top ul li a{
+color:#000000;
+text-decoration:none;
+}
+.middle-top ul li a::visited{
+color:#0000FF;
+}
+.middle-top ul li a:hover{
+color:#FF0000;
+}
+*/
+
+a{
+text-decoration:none;
+}
+#middle-righ2{
+width:740px;
+min-height:510px;
+margin:0px;
+padding:0px;
+border: #FFFFFF thin solid;
+}
+#middle-righ2 ul{
+padding-left:0px;
+margin-top:0px;
+list-style:none;
+}
+#middle-righ2 ul li{
+width:200px;
+height:160px;
+float:left;
+text-align:center;
+border:#000000 thin hidden;
+font-size:14px;
+line-height:16px;
+margin:1px;
+margin-bottom:6px;
+padding-left:20px;
+
+}
+
+#middle-righ2 ul li img{
+border:#CCCCCC thin solid;
+width:190px;
+height:135px;
+
+}
+#middle-rigt2 ul li a{
+text-decoration:none;
+}
+
+#middle-righ2 ul li a::VISITED {
+	color:#0000FF;
+	
+}
+#middle-righ2 ul li a:hover{
+	color:#FF0000;
+}
+
+
+
+#middle-righ4{
+width:740px;
+min-height:510px;
+margin:0px;
+padding:0px;
+border: #FFFFFF thin solid;
+}
+#middle-righ4 ul{
+padding-left:0px;
+margin-top:0px;
+list-style:none;
+}
+#middle-righ4 ul li{
+width:700px;
+height:490px;
+float:left;
+text-align:center;
+border:#000000 thin hidden;
+font-size:14px;
+line-height:16px;
+margin:1px;
+margin-bottom:6px;
+padding-left:20px;
+
+}
+
+#middle-righ4 ul li img{
+border:#CCCCCC thin solid;
+width:600px;
+height:470px;
+
+}
+
+
+
+#middle-righ3{
+width:740px;
+height:20px;
+margin:1px 0px 0px 0px;
+text-align:center;
+padding:0px;
+border:#FF00FF thin hidden;
+}
+
+#middle-righ3 ul{
+margin-top:0px;
+padding-left:200px;
+list-style:none;
+}
+#middle-righ3 ul li{
+width:20px;
+height:20px;
+margin-left:3px;
+line-height:20px;
+font-size:12px;
+float:left;
+border:#000000 thin solid;
+}
+#middle-righ3 ul li a{
+text-decoration:none;
+}
+
+#middle-righ3 ul li a::VISITED {
+	color:#0000FF;
+	
+}
+#middle-righ3 ul li a:hover{
+
+	color:#FF0000;
+}

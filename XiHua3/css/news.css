@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+body{
+width:900px;
+height:800px;
+margin:0 auto;
+padding:0;
+}
+#news{
+width:800px;
+height:600px;
+margin:0px;
+padding:0px;
+border:#FF0000 thin hidden;
+	
+}
+
+#news ul{
+margin-top:0px;
+padding-left:10px;
+list-style:none;
+}
+#news ul li{
+width:200px;
+height:25px;
+line-height:25px;
+margin:0px;
+padding:0px;
+border:#000000 thin hidden;
+text-align:center;
+font-size:14px;
+
+}
+#news ul li a{
+color:#000000;
+text-decoration:none;
+}
+#news ul li a::visited{
+color:#0000FF;
+}
+#news ul li a:hover{
+color:#FF0000;
+}

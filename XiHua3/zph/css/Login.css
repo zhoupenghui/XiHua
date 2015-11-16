@@ -1,0 +1,62 @@
+
+
+/* CSS Document */
+body{
+background-image:url(../images/3.png);
+margin:0;
+padding:0;
+background-repeat:repeat-y;
+
+}
+ a{
+
+text-decoration:none;
+}
+li { border: 0px solid #FF0000; margin: 10px 0px; list-style: none;  }
+#login{
+margin:140px auto auto auto;
+text-align:center;
+padding:0;
+border:#FFFFFF thin hidden;
+
+width:400px;
+height:300px;
+background-image:url(../images/00.jpg);
+}
+#top{
+margin:0;
+padding:0 0 2px 0;
+border:#FFFFFF thin solid;
+width:396px;
+height:35px;
+
+}
+#top1{
+margin-top:10px;
+
+text-align:center;
+letter-spacing:10px;
+width:400px;
+height:20px;
+color:#990066;
+font-weight:bold;
+}
+#center{
+margin:0;
+padding:0;
+width:398px;
+height:300px;
+border:#FF0000 thin inherit;
+}
+#center1{
+
+padding-top:30px;
+width:400px;
+height:130px;
+border:#0000FF inherit thin;
+text-align:center;
+color:#990033;
+font-size:14px;
+font-weight:bold;
+}
+
